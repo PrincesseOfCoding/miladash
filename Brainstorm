@@ -1,0 +1,33 @@
+Brainstorm of ideas for the project:
+
+MAIN IDEA:
+Create a dashboard to analyse the holders of NFT projects (maybe only interesting for pfpNFT's)
+
+HOW?:
+-> Via dune
+But I have no experience in sql, only solidity. 
+But apparantly sql is easy to learn + We can use already existent code for some of the parameters
+
+-> Code everything ourself:
+I am very bad at front end but I learn fast + use examples online easily
+I have some experience in JS and solidity 
+
+WHAT PARAMETERS?:
+- Relative importance of the NFT in the wallet (% of total worth)
+- Average amount of NFTs of the collection per holders (cumulative/descriptive chart?)
+- relative importance of the NFT in the total NFT holdings of the holders wallet (% worth)
+- relative importance of the NFT in the total ETH holdings od the holders wallet
+- average duration of holding 
+- % of minteed NFT's still not sold a first time (long term holders?) !!! need to be relative to the age of the project
+
+DISPLAY
+- Index -> easier to compare collection
+- Graph -> better visualisation
+
+
+GO FURTHER:
+- also include twitter data (more complicated and I think this couold be a lateer step)
+
+
+STEP 1/
+I will learn more about dune and maybe try to code in SQL to retrieve one parameter
